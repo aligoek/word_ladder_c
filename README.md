@@ -1,4 +1,4 @@
-# Word Ladder Solver
+# Word Ladder 
 
 A C program to find a word ladder (a sequence of words where each differs by one letter) between two given words using a breadth-first search approach.
 
